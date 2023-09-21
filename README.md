@@ -1,4 +1,4 @@
-# mayashaked4.github.io
+# Maya Shaked
 My name is Maya Shaked and I am a Senior at Lehigh University studying Journalism with a double minor in Business and Real Estate. This portfolio is used to collect and showcase my work from data journlaism. 
 [LinkedIn Page](www.linkedin.com/in/mayashaked426)
-# Maya Shaked
+
