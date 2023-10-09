@@ -13,3 +13,7 @@ This infographic shows data from the Wall Street Journal article "This Idaho Tow
 
 This is a brief history of the Lehigh-Lafayette Rivalry football game. It is the longest played college rivalry. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1oLYWGrtbgPQsoesGHevP4A3v6vyIUzgxAO6KRsU45I8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+This is a timeline of some of the most iconic skyscrapers that have ever appeared on the Manhattan skyline:
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1aBZMn2517Qh9gagn77KOnlmVValGZHFipUMgg-B0Zxw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+[More information can be found here](https://www.pbs.org/wgbh/americanexperience/features/manhattan-skyscrapers/)
