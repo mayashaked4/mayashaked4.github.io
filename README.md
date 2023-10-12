@@ -18,3 +18,7 @@ This is a brief history of the Lehigh-Lafayette Rivalry football game. It is the
 This is a timeline of some of the most iconic skyscrapers that have ever appeared on the Manhattan skyline:
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1aBZMn2517Qh9gagn77KOnlmVValGZHFipUMgg-B0Zxw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 [More information can be found here](https://www.pbs.org/wgbh/americanexperience/features/manhattan-skyscrapers/)
+
+This is a bar chart of student gender across colleges and programs at Lehigh University. CAS is College of Arts and Sciences, COE is College of Engineering, COB is College of Business, IP is Intercollegate Programs, COH is College of Health, A/E is Arts/Engineering and GCD is General College Div. 
+![Lehigh University Undergraduate Enrollment](https://github.com/mayashaked4/mayashaked4.github.io/blob/main/Lehigh_University_Undergraduate_Enrollment_Male_Female_chartbuilder.png?raw=true)
+[More information can be found here](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf)
