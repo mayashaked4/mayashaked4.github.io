@@ -24,4 +24,4 @@ This is a bar chart of student gender across colleges and programs at Lehigh Uni
 [More information can be found here](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf)
 
 This bar chart compares the eight most popular streaming services by price and number of devices that can stream at once. The streaming services I chose were Netflix, Hulu, Amazon Prime, Max, Disney+, Peacock, Paramount+ and AppleTV+. [more information can be found here](https://www.wsj.com/buyside/arts-entertainment/best-streaming-services-3039a858)
-![streaming services bar chart]
+![streaming services bar chart](https://github.com/mayashaked4/mayashaked4.github.io/blob/main/Best_Streaming_Services_by_Price_and_Devices_Basic_Plan_with_Ads_Preium_Plan_w_o_Ads_Devices_that_can_stream_at_once_chartbuilder.png?raw=true)
