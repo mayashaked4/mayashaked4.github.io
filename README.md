@@ -22,3 +22,6 @@ This is a timeline of some of the most iconic skyscrapers that have ever appeare
 This is a bar chart of student gender across colleges and programs at Lehigh University. CAS is College of Arts and Sciences, COE is College of Engineering, COB is College of Business, IP is Intercollegate Programs, COH is College of Health, A/E is Arts/Engineering and GCD is General College Div. 
 ![Lehigh University Undergraduate Enrollment](https://github.com/mayashaked4/mayashaked4.github.io/blob/main/Lehigh_University_Undergraduate_Enrollment_Male_Female_chartbuilder.png?raw=true)
 [More information can be found here](https://data.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf)
+
+This bar chart compares the eight most popular streaming services by price and number of devices that can stream at once. The streaming services I chose were Netflix, Hulu, Amazon Prime, Max, Disney+, Peacock, Paramount+ and AppleTV+. [more information can be found here](https://www.wsj.com/buyside/arts-entertainment/best-streaming-services-3039a858)
+![streaming services bar chart]
