@@ -30,3 +30,6 @@ This bar chart compares the eight most popular streaming services by price and n
 
 This time-series chart shows how the populaitons in Lehigh's colleges of Arts and Sciences, Business, and Engineering have changed over time. [More information can be found here](https://data.lehigh.edu/university-profile)
 ![lehigh colleges over time](https://github.com/mayashaked4/mayashaked4.github.io/blob/main/Lehigh_University_Enrollment_Distribution_the_Past_5_Years_Arts_and_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+
+This is a scatter plot that shows the relationship between GDP per capita and life satisfaction. The countries this data represents are Afganistan, Zimbabwe, Nepal, India, Brazil, China, Russia, Spain, Italy, South Korea, France, Japan, UK, Finland, Canada, USA, Switzerland, Ireland and Luxembourg. [More information can be found here] (https://ourworldindata.org/happiness-and-life-satisfaction)
+![life satisfaction](https://github.com/mayashaked4/mayashaked4.github.io/blob/main/LifeSatisfaction.png?raw=true)
