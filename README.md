@@ -40,4 +40,4 @@ This scatter plot shows the relationship between Employment Growth and GDP Per C
 
 # Top Cycling cities in the world
 This map shows the 20 cities in the world with the most cyclists in 2019. This information was found by Wired. [For more information read this](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
-![Top cycling cities](<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1HfUjVkLoTMPvQCYxYK2fdDFhWA9DUxQ&ehbc=2E312F" width="640" height="480"></iframe>)
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1HfUjVkLoTMPvQCYxYK2fdDFhWA9DUxQ&ehbc=2E312F" width="640" height="480"></iframe>
