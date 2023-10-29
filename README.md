@@ -41,3 +41,7 @@ This scatter plot shows the relationship between Employment Growth and GDP Per C
 # Top Cycling cities in the world
 This map shows the 20 cities in the world with the most cyclists in 2019. This information was found by Wired. [For more information read this](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1HfUjVkLoTMPvQCYxYK2fdDFhWA9DUxQ&ehbc=2E312F" width="640" height="480"></iframe>
+
+# 20 Tallest Buildings in the World
+This map shows the top 20 completed tallest buidings in the world as of October 2023. Something that I found intersting about this information is how a majority of the buidings were mixed use instead of primarily office buildings. It was even more interesting that a majority of these buildings have hotel spaces in them. In my previous assignment which was a scatter plot, I showed the relationship between employment growth and GDP per capita. A majority of the cities featured on that list were from China, the UAE and Turkey. Many of these buildings are also in China and the UAE which I thought was in interesting intersection of GDP, employment growth, and infrastructure growth. The information for this map was found by the Council of Tall Buildings and Urban Habitat. For more information, click [here](https://www.skyscrapercenter.com/buildings)
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1YYOCbpqCGZBzSz8PIAvqnlRkIfOCTEc&ehbc=2E312F" width="640" height="480"></iframe>
